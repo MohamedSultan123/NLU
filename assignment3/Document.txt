@@ -8,3 +8,4 @@ Python is a popular programming language for data science.
 Healthcare is rapidly advancing with new technologies.
 Education systems are being reshaped by online learning.
 Renewable energy is key to a sustainable future.
+tennis is the most popular sport globally.
